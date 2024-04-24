@@ -1,0 +1,14 @@
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\bin\Debug\net6.0\Queues and stacks.exe
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\bin\Debug\net6.0\Queues and stacks.deps.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\bin\Debug\net6.0\Queues and stacks.runtimeconfig.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\bin\Debug\net6.0\Queues and stacks.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\bin\Debug\net6.0\Queues and stacks.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.AssemblyInfoInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.AssemblyInfo.cs
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.csproj.CoreCompileInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\refint\Queues and stacks.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\Queues and stacks.genruntimeconfig.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\Queues and stacks\obj\Debug\net6.0\ref\Queues and stacks.dll

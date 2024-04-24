@@ -1,0 +1,14 @@
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\bin\Debug\net6.0\ArrayAlgorithms.exe
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\bin\Debug\net6.0\ArrayAlgorithms.deps.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\bin\Debug\net6.0\ArrayAlgorithms.runtimeconfig.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\bin\Debug\net6.0\ArrayAlgorithms.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\bin\Debug\net6.0\ArrayAlgorithms.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.AssemblyInfoInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.AssemblyInfo.cs
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\refint\ArrayAlgorithms.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ArrayAlgorithms.genruntimeconfig.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\Algorithms\ArrayAlgorithms\obj\Debug\net6.0\ref\ArrayAlgorithms.dll
